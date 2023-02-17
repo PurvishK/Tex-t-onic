@@ -1,0 +1,16 @@
+Module
+
+A module is nothing but a .py script that can be called in another .py script.
+A module is a file containing Python definitions and statements which helps
+to implement a set of functions. The file name is the module name with the
+suffix. .cy appended. Modules are imported from other modules using the
+
+import command. Let's import the math module.
+
+# import the library
+import meth
+
+#Using it for taking the 209
+math. log (10)
+2.302505000004046
+
